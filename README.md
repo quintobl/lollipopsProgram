@@ -1,5 +1,5 @@
 # lollipopsProgram
-Mult-form Windows application in VB for IT 101, Programming 1, course at Cincinnati State
+Mult-form Windows application in VB for IT 101 (Programming 1) course at Cincinnati State
 
 IT 101
 Final Project
