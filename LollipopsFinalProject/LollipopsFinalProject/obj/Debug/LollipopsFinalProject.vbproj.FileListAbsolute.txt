@@ -1,0 +1,14 @@
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\bin\Debug\LollipopsFinalProject.exe.config
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\bin\Debug\LollipopsFinalProject.exe
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\bin\Debug\LollipopsFinalProject.pdb
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\bin\Debug\LollipopsFinalProject.xml
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.frmHourly.resources
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.frmMain.resources
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.frmSalaried.resources
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.Resources.resources
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.vbproj.GenerateResource.cache
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.vbproj.CoreCompileInputs.cache
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.exe
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.xml
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.pdb
+C:\VBNet\LollipopsFinalProject\LollipopsFinalProject\obj\Debug\LollipopsFinalProject.vbproj.AssemblyReference.cache
